@@ -1,6 +1,6 @@
 {
   "auth": {
-    "myappa07538af": {
+    "myapp87b88d2a": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
